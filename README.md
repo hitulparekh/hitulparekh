@@ -15,5 +15,6 @@ Greetings! I am a dedicated programming enthusiast passionate about problem-solv
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/bitbucket-light.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/graphql.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/aws-light.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/postman.svg" width="50"></a>
 
 
