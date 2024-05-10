@@ -6,5 +6,7 @@ Greetings! I am a dedicated programming enthusiast passionate about problem-solv
 
 <h3>Skills & Technologies</h3>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/php.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mysql.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/javascript.svg" width="50"></a>
 
 
